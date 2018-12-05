@@ -1,8 +1,7 @@
-weight: 4
-title: "Easy to customize"
+weight: 1
+title: ""
 description: >
-  <ul class="list-style-none">
-    <li>7 preprepared colour variations.</li>
-    <li>Easily to change fonts</li>
-  </ul>
+  <p>
+    Algorithms for Computational Social Science and Digital Humanities
+  </p>
 image: "img/carousel/template-easy-code.png"
